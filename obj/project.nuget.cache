@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eOMYXclQJ00=",
+  "dgSpecHash": "UsYd+o3Ft4o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\angel\\Desktop\\AC21\\AC21.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\prac\\AC21\\AC21.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.9\\microsoft.netcore.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.9\\microsoft.windowsdesktop.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.9\\microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.9\\microsoft.netcore.app.host.win-x64.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
